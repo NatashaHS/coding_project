@@ -1,4 +1,4 @@
-body, h1 {
+body, h1, h3, p {
   font-family: 'Josefin Sans', sans-serif;
 }
 h1 {
@@ -16,6 +16,22 @@ ul {
   list-style-type: none;
   text-align: center;
 }
+li {
+  display: inline;
+  padding: 0px 10px 0px 10px;
+}
 ul li a {
   color: #136a84
+}
+.main-image {
+
+}
+img {
+  max-width: 100%;
+  height: auto;
+  padding: 20px;
+}
+ul {
+  list-style-type: none;
+  text-align: center;
 }
